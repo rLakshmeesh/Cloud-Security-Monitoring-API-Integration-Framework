@@ -493,7 +493,7 @@ crontab -e
 Add this line:
 
 ```bash
-0 * * * * python3 /home/laksh/cloud-security-pipeline/pipeline.py >> /home/laksh/pipeline.log 2>&1
+0 * * * * python3 /home/****security-pipeline/pipeline.py >> /home/****/pipeline.log 2>&1
 ```
 
 ---
@@ -583,7 +583,3 @@ Cybersecurity Analyst | Detection Engineering | Cloud Security
 [![GitHub](https://img.shields.io/badge/GitHub-rLakshmeesh-black)](https://github.com/rLakshmeesh)
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License — free to use, modify, and distribute.
